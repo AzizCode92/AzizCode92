@@ -1,18 +1,18 @@
 ## Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AzizCode92)](https://github.com/anuraghazra/github-readme-stats)
+  ### 📊 GitHub Stats
 
-<!--
-**AzizCode92/AzizCode92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AzizCode92&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-Here are some ideas to get you started:
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AzizCode92&layout=compact&theme=tokyonight&hide_border=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AzizCode92&theme=tokyonight&hide_border=true)
+
+  
+  
+  ### 📫 Connect
+  - GitHub: [@AzizCode92](https://github.com/AzizCode92)
+
+  <!--
+  **AzizCode92/AzizCode92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  -->
